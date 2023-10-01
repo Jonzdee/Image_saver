@@ -1,0 +1,9 @@
+.search-bar {
+  border-radius: 5px;
+  padding: 10px;
+  border: 1px solid lightgrey;
+}
+.search-bar form {
+  display: flex;
+  flex-direction: column;
+}
